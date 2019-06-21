@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to select a row in one click
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1560/)**
+<!-- run online end -->
 
 
 <p>The ASPxGridView supports the <a href="http://demos.devexpress.com/ASPxGridViewDemos/Selection/SelectByRowClick.aspx"><u>Selection via Row Clicks</u></a>. However, in some cases it is required to have the selection feature, but the selection checkbox might have an unusual placement in the grid (e.g. in some templates). The sample demonstrate how to implement the Selection feature using a stand-alone checkbox that is created in DataItem template.</p><p><strong>See Also:</strong><br />
